@@ -1,0 +1,19 @@
+site_name: My Awesome Site
+nav:
+    - Home: index.md
+    - About: about.md
+    - Contact: contact.md
+
+theme:
+  name: "material"
+  language: "en"
+  palette:
+    primary: "grey"
+    accent: "pink"
+  font:
+    text: "Roboto"
+    code: "Roboto Mono"
+  features:
+    - navigation.instant
+    - navigation.tabs
+    - toc.integrate
